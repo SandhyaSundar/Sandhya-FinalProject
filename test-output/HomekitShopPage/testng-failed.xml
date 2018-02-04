@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [HomekitShopPage]">
+  <test name="Home and Kitchen shopping Tests(failed)">
+    <classes>
+      <class name="Woot_Tests.HomeKitShoppingTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="HomeKitShopping_test01"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+          <include name="afterClass"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- Woot_Tests.HomeKitShoppingTest -->
+    </classes>
+  </test> <!-- Home and Kitchen shopping Tests(failed) -->
+</suite> <!-- Failed suite [HomekitShopPage] -->

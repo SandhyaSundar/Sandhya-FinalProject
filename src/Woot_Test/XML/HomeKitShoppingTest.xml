@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="HomekitShopPage" parallel="false">
+	<test name="Home and Kitchen shopping Tests">
+		<classes>
+			<class name="Woot_Tests.HomeKitShoppingTest" />
+		</classes>
+	</test>
+</suite>

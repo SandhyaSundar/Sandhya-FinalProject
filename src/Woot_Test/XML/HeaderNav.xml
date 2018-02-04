@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="HeaderNav" parallel="false">
+	<test name="Header Nav Tests">
+		<classes>
+			<class name="Woot_Tests.HeaderNavTests" />
+		</classes>
+	</test>
+</suite>

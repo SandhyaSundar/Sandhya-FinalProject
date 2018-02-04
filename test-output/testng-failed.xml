@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [SignInPage]">
+  <test name="SignIn Page Tests(failed)">
+    <classes>
+      <class name="Woot_Tests.SignInPageTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="SigninScenario_Test01"/>
+          <include name="afterMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+          <include name="afterClass"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- Woot_Tests.SignInPageTest -->
+    </classes>
+  </test> <!-- SignIn Page Tests(failed) -->
+</suite> <!-- Failed suite [SignInPage] -->

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SignInPage" parallel="false">
+	<test name="SignIn Page Tests">
+		<classes>
+			<class name="Woot_Tests.SignInPageTest" />
+		</classes>
+	</test>
+</suite>

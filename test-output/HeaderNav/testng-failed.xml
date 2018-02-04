@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [HeaderNav]">
+  <test name="Header Nav Tests(failed)">
+    <classes>
+      <class name="Woot_Tests.HeaderNavTests">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="navigationToElectronics_test03"/>
+          <include name="navigationToSports_test06"/>
+          <include name="afterSuite"/>
+          <include name="navigationToComputers_test04"/>
+          <include name="afterClass"/>
+          <include name="beforeTest"/>
+          <include name="navigationToGourment_test08"/>
+          <include name="navigationToHomeKit_test02"/>
+          <include name="navigationToShirt_test07"/>
+          <include name="beforeSuite"/>
+          <include name="navigationToSellout_test09"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- Woot_Tests.HeaderNavTests -->
+    </classes>
+  </test> <!-- Header Nav Tests(failed) -->
+</suite> <!-- Failed suite [HeaderNav] -->

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AllDealPage" parallel="false">
+	<test name="All Deal Page Tests">
+		<classes>
+			<class name="Woot_Tests.AllDealPageTest" />
+		</classes>
+	</test>
+</suite>

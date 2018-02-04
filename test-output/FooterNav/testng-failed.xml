@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [FooterNav]">
+  <test name="Footer Nav Test(failed)">
+    <classes>
+      <class name="Woot_Tests.FooterNavTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="afterSuite"/>
+          <include name="afterClass"/>
+          <include name="beforeTest"/>
+          <include name="navigationToWoots_test09"/>
+          <include name="navigationToWorldOfWoot_test10"/>
+          <include name="naviagationToWoot_test08"/>
+          <include name="naviagtiontoTodaysWootPage_test01"/>
+          <include name="navigationToBlogPage_test02"/>
+          <include name="beforeSuite"/>
+          <include name="navigationToCommunityPage_test03"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- Woot_Tests.FooterNavTest -->
+    </classes>
+  </test> <!-- Footer Nav Test(failed) -->
+</suite> <!-- Failed suite [FooterNav] -->
